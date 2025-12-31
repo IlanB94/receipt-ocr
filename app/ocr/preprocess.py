@@ -1,4 +1,3 @@
-# app/ocr/preprocess.py
 import cv2
 import numpy as np
 
