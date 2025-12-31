@@ -1,4 +1,3 @@
-# app/main.py
 from fastapi import FastAPI, UploadFile
 import shutil
 from app.ocr.preprocess import preprocess_image
